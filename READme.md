@@ -28,7 +28,7 @@ I am currently exploring the intersection of **Artificial Intelligence, Machine 
 
 ---
 
-## 🛠️ Tech Stack (Snapshot)
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,aws" />
@@ -51,11 +51,17 @@ I am currently exploring the intersection of **Artificial Intelligence, Machine 
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://personal-portfolio-bay-kappa-63.vercel.app">🌍 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/smriti-basnet-a140ab329/">💼 LinkedIn</a> •
-  <a href="mailto:basnetsmriti62@gmail.com">📧 Email</a>
-</p>
+<a href="https://www.linkedin.com/in/smriti-basnet-a140ab329/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://personal-portfolio-bay-kappa-63.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:basnetsmriti62@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
