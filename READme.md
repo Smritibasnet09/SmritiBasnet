@@ -42,21 +42,20 @@
 
 ## 🧠 About Me
 
-I’m **Smriti**, focused on **Artificial Intelligence, Machine Learning, and system-level thinking**.
+I am **Smriti Basnet**, currently focused on **Artificial Intelligence, Machine Learning, and system-level thinking**.
 
-- I like breaking systems to understand them deeply  
-- I prefer real-world problem solving over just theory  
-- Currently learning how to build end-to-end AI systems  
+- 🔍 Driven to understand how systems work at a deeper level  
+- 🧩 Interested in breaking down complex problems into clear solutions  
+- ⚙️ Focused on building practical, end-to-end AI systems  
 
 ---
 
-## 🧭 Current Focus
+## 🎯 Current Focus
 
-- 🔍 AI/ML projects (real-world oriented)  
-- ☁️ Cloud deployment (AWS)  
-- 🔐 Security + system thinking  
-- 🧠 Understanding LLM behavior  
-
+- 🤖 Developing AI/ML projects with real-world applications  
+- ☁️ Learning cloud deployment and infrastructure (AWS)  
+- 🔐 Exploring security fundamentals alongside system design  
+- 🧠 Studying the behavior and limitations of modern AI systems  
 ---
 
 ## 📊 GitHub Stats
