@@ -15,7 +15,7 @@
 I am currently exploring the intersection of **Artificial Intelligence, Machine Learning, and system design**, with a strong focus on practical learning and real-world application.
 
 🔗 Discover more about my work:  
-👉 personal-portfolio-bay-kappa-63.vercel.app
+👉 Portfolio: [Visit My Portfolio](https://personal-portfolio-bay-kappa-63.vercel.app)
 
 ---
 
